@@ -8,7 +8,7 @@
 		<version>2.6.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.gs.auth.oidc</groupId>
+	<groupId>org.test.auth.oidc</groupId>
 	<artifactId>webid-sample-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>webid-sample-app</name>
